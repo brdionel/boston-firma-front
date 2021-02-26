@@ -1,0 +1,21 @@
+.loader_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container_error {
+  padding: 1em 1.5em;
+  border: .5px solid rgba(0, 0, 0, 0.8);
+  border-radius: 5px;
+  width: 70vw;
+  margin: 0 auto;
+}
+
+.container_error h1{
+  font-size: 1.2em;
+  margin: 0;
+  color: rgba(0, 0, 0, 0.8);
+  text-align: center;
+}

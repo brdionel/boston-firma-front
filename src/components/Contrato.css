@@ -1,0 +1,14 @@
+ .contrato__wrapper {
+   height: 70vh;
+   min-width: 80vw;
+   overflow: auto;
+   border-radius: 4px;
+ }
+
+ #inlineFrameExample {
+   margin: 0 auto;
+ }
+
+ .container_wrapper {
+   padding-top: 1em;
+ }

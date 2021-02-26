@@ -1,0 +1,22 @@
+.container_terminos {
+  text-align: left;
+  width: 80vw;
+  padding: 1.5em 0;
+}
+
+.container_terminos h1 {
+  text-align: center;
+}
+
+@media screen and (min-width: 700px){
+  .container_terminos {
+    padding: 2.5em;
+  }
+  .container_terminos h1 {
+    text-align: left;
+  }
+}
+
+.form_terminos div {
+  margin-bottom: 16px;
+}
